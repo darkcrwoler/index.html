@@ -1,0 +1,36 @@
+header {
+display: flex;
+justify-content: space-between;
+border: 1px solid #241178;
+}
+
+
+
+img {
+    width: 100%;
+}
+
+ul{ 
+    display: flex;
+}
+
+li{
+    margin: 15px;
+}
+h1{
+    color:red;
+    font-size: 14px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.profile{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+}
